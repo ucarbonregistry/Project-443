@@ -26,3 +26,23 @@ Similarly, WTG (RVT-16) was commissioned on 31.10.2015 and EPA was executed by M
 09.08.2019 to M/s Inox Wind Ltd. for the said project/'WTG. Whereas M/s Inox Renewables Ltd. (Old
 Owner) has amalgamated the said WTG with M/s Inox Wind Energy Ltd. IWEL (New Owner) in view of
 Hon'ble National Company Law Tribunal order dated 25.01.2021.
+____
+PRIOR HISTORY
+
+There is no double accounting of emission reductions in the project activity due to the following reasons:
+• The project activity was applied (Consideration) in CDM on 18 June 14. However said project
+was not registered or no any CER’s have been issued for the same project. The project activity is
+now seeking CoUs under the UCR CoU Standard/Program for the period 31/10/2015 to
+31/12/2022 and hence there is no double counting issue of carbon credits for the said vintage
+period. Additionally, the same has been stated in the undertaking provided in the Double
+Counting Avoidance Assurance Document (DAA) by the PP.
+
+• The details of the prior consideration project is as follow,
+
+Project Name /Country/ Date
+______________________
+Wind power project in Maharashtra by Shree Siddhivnayaka Cotton Corporation/ India/ 18 June 2014
+______________________________
+Wind power project in Maharashtra by Ashwini Traders /India/ 18 June 2014
+
+(https://cdm.unfccc.int/Projects/PriorCDM/notifications/index_html?s=1580)
